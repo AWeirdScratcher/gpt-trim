@@ -5,3 +5,4 @@ poetry.lock
 .pythonlibs/
 .replit
 .upm/
+**/__pycache__/
